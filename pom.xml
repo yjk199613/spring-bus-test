@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>com.hiynn.resplatform</groupId>
+  <artifactId>resource-platform</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>pom</packaging>
+
+  <name>resource-platform</name>
+  <description>微服务架构资源平台父模块管理</description>
+
+  <!-- 模块说明：这里声明多个子模块 -->
+  <modules>
+	<module>hiynn-app-common</module>
+	<module>hiynn-app-userCenter</module>
+	<module>hiynn-app-resplatform-admin</module>
+	<module>hiynn-app-resplatform-user</module>
+	<module>hiynn-app-searchCenter</module>
+	<module>hiynn-app-fileCenter</module>
+	<module>hiynn-app-resplatform-api</module>
+	<module>hiynn-eureka</module>
+	<module>hiynn-config</module>
+	<module>hiynn-zuul</module>
+    <module>hiynn-turbine</module>
+	<module>hiynn-sleuth</module>
+	<module>hiynn-bus</module>
+  </modules>
+
+</project>
