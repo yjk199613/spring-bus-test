@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+
+    <settings>
+        <!--关闭二级缓存-->
+        <setting name="cacheEnabled" value="false"/>
+        <!--解决返回值为null不显示的问题-->
+        <setting name="callSettersOnNulls" value="true"/>
+        <!--开启自动驼峰命名 即从经典数据库列名 A_COLUMN 到经典 Java 属性名 aColumn 的类似映射 -->
+        <setting name="mapUnderscoreToCamelCase" value="true" />
+        <!-- 打印出sql语句 可在控制台查看-->
+        <setting name="logImpl" value="STDOUT_LOGGING" />
+    </settings>
+
+</configuration>

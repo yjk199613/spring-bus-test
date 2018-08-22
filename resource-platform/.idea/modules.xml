@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hiynn-app-common/hiynn-app-common.iml" filepath="$PROJECT_DIR$/hiynn-app-common/hiynn-app-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hiynn-app-fileCenter/hiynn-app-fileCenter.iml" filepath="$PROJECT_DIR$/hiynn-app-fileCenter/hiynn-app-fileCenter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hiynn-app-resplatform-admin/hiynn-app-resplatform-admin.iml" filepath="$PROJECT_DIR$/hiynn-app-resplatform-admin/hiynn-app-resplatform-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hiynn-app-resplatform-api/hiynn-app-resplatform-api.iml" filepath="$PROJECT_DIR$/hiynn-app-resplatform-api/hiynn-app-resplatform-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hiynn-app-resplatform-user/hiynn-app-resplatform-user.iml" filepath="$PROJECT_DIR$/hiynn-app-resplatform-user/hiynn-app-resplatform-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hiynn-app-searchCenter/hiynn-app-searchCenter.iml" filepath="$PROJECT_DIR$/hiynn-app-searchCenter/hiynn-app-searchCenter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hiynn-app-userCenter/hiynn-app-userCenter.iml" filepath="$PROJECT_DIR$/hiynn-app-userCenter/hiynn-app-userCenter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hiynn-bus/hiynn-bus.iml" filepath="$PROJECT_DIR$/hiynn-bus/hiynn-bus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hiynn-config/hiynn-config.iml" filepath="$PROJECT_DIR$/hiynn-config/hiynn-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hiynn-eureka/hiynn-eureka.iml" filepath="$PROJECT_DIR$/hiynn-eureka/hiynn-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hiynn-sleuth/hiynn-sleuth.iml" filepath="$PROJECT_DIR$/hiynn-sleuth/hiynn-sleuth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hiynn-turbine/hiynn-turbine.iml" filepath="$PROJECT_DIR$/hiynn-turbine/hiynn-turbine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hiynn-zuul/hiynn-zuul.iml" filepath="$PROJECT_DIR$/hiynn-zuul/hiynn-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/resource-platform.iml" filepath="$PROJECT_DIR$/resource-platform.iml" />
+    </modules>
+  </component>
+</project>
